@@ -1,0 +1,12 @@
+body {
+    display: block;
+}
+
+.header-btn {
+    display: inline-block;
+    color: rgb(250, 246, 246);
+    cursor: pointer;
+    background-color: rgb(193, 243, 101);
+    width: 200px;
+    height: 100px;
+}
